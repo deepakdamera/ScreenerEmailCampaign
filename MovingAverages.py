@@ -4,6 +4,8 @@ import csv
 import time
 
 # Alpha Vantage API details
+
+# key removed 
 api_key = "#"
 csv_file_path =r"c:\Users\USER\Documents\Python Scripts\tickers.csv"
 sma_period = 200
